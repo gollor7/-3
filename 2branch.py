@@ -1,3 +1,3 @@
 print("друга гілка")
 
-print('Second contributor authored!")
+print("Second contributor authored!")
